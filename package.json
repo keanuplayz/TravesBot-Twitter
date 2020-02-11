@@ -1,0 +1,23 @@
+{
+  "name": "travesbot-twitter",
+  "version": "1.0.0",
+  "description": "TravesBot Twitter bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keanuplayz/TravesBot-Twitter.git"
+  },
+  "keywords": [
+    "Twitter",
+    "bot"
+  ],
+  "author": "Keanu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/keanuplayz/TravesBot-Twitter/issues"
+  },
+  "homepage": "https://github.com/keanuplayz/TravesBot-Twitter#readme"
+}
